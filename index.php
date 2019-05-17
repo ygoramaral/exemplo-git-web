@@ -4,7 +4,7 @@ error_reporting(E_ALL);
 
 require_once("pessoa.php");
 
-$pessoa = new Pessoa("Ygor", "123456");
+$pessoa = new Pessoa("Allanyo", "11111111");
 
 $pessoa->setNome("Ygor Amaral")->setCPF("dsadasdsa");
 
